@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @codecheer
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: Pitufina
